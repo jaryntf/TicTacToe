@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536348594 source:/home/user/TicTacToe2/main.cpp
+	<iostream>
+	"TicTacToe.h"
+
+1536348594 /home/user/TicTacToe2/TicTacToe.h
+
+1536348641 source:/home/user/TicTacToe2/TicTacToe.cpp
+	<iostream>
+	"TicTacToe.h"
+	<ctime>
+	<cstdlib>
+
+1536338025 source:/home/user/TicTacToe2/TicTacToe.h
+
